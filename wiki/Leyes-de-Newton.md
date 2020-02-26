@@ -18,7 +18,8 @@ $$\vec{F} = m\vec{a}$$
 
 **Tercera ley:** las fuerzas de contacto entre dos cuerpos son siempre iguales y opuestas (acción y reacción).
 
-Referencias:
+### Referencias:
+
 Crandall, S., Dahl N. and Lardner T. An Introduction to the Mechanics of Solids (2nd Edition), McGraw-Hill, 1999
 
 Newton's Laws of Motion, [NASA](https://www.grc.nasa.gov/www/k-12/airplane/newton.html)
