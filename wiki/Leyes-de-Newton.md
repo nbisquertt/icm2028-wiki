@@ -25,3 +25,5 @@ Crandall, S., Dahl N. and Lardner T. An Introduction to the Mechanics of Solids 
 Newton's Laws of Motion, [NASA](https://www.grc.nasa.gov/www/k-12/airplane/newton.html)
 
 <sup>1</sup> Aquí se puede encontrar una [traducción](https://archive.org/details/newtonspmathema00newtrich/page/n85/mode/2up)
+
+![imagen 1](images/test.png)
