@@ -6,6 +6,14 @@
 4. Escriba el contenido usando markdown, [aquí](https://www.markdownguide.org/basic-syntax/) hay una introducción básica al lenguaje. También puede escribir ecuaciones usando comando de $$\LaTeX$$ entre `$$`. Por ejemplo `$$E=mc^2$$` se mostrará como $$E=mc^2$$.
 5. Cuando termine de editar el artículo haga click en "Propose new file" y en el paso siguiente "Create pull request". El artículo tiene que ser aprobado por el profesor para que aparezca en la wiki.
 
+**Nota**: Si ya ha contribuido con artículos, [siga estas instrucciones para actualizar su fork](https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the-cli/).
+
+## Para crear artículos con imágenes:
+1. Crear un fork del repositorio, yendo a [https://github.com/fsahli/icm2028-wiki/](https://github.com/fsahli/icm2028-wiki/) y haciendo click en Fork (esquina superior derecha) o haciendo click [aquí](https://github.com/fsahli/icm2028-wiki/fork). Si ya ha creado un fork anteriormente, [siga estas instrucciones para actualizar su fork].
+2. Ir a la carperta `wiki/images` y hacer click en "Upload files", subir las imágenes y apretar "Commit changes". 
+3. En la carpeta `wiki`, localice el artículo que va escribir y editelo. Puede incluir la imágen agregando el texto `![título](images/suimagen.png'). Finalmente, haga click en "Commit changes".
+4. Vaya a la carpeta base del repositorio `icm2028-wiki` y haga click en "New pull request". Luego, haga click en "Create pull request". El artículo tiene que ser aprobado por el profesor para que aparezca en la wiki.
+
 # Contenidos
 ## Capítulo 1
 - [Leyes de Newton](Leyes-de-Newton)
