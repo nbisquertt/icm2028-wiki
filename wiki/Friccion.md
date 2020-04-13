@@ -22,7 +22,7 @@ Conceptualmente se habla de 2 coeficientes relativos a la superficie:
  
  ### Ejemplo
  
- ![Fuerzas en un zapato. Elaboración propia.](images/'Fuerzas_en_zapato-01.png')
+ ![Fuerzas en un zapato. Elaboración propia.](https://raw.githubusercontent.com/chavillarreal/icm2028-wiki/master/wiki/images/Fuerzas_en_zapato-01.png)
  
  En la imagen se puede apreciar una serie de fuerzas presentes en un zapato acelerado que, (supongamos) está siendo usado por una
  persona para caminar, si la fuerza de roce no existiera en esta situación, el zapato aceleraría indefinidamente, por lo que esta
