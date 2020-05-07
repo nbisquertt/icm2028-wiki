@@ -23,3 +23,6 @@
 ## Capítulo 2
 - [Ley de Hooke](Ley-de-Hooke)
 - [Módulo de Young](Modulo-de-Young)
+
+## Capítulo 4
+- [Tensor de esfuerzo no simétrico](Tensor-de-esfuerzo-no-simetrico)
