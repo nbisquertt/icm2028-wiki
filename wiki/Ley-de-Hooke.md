@@ -4,19 +4,23 @@ del mismo. En muchos materiales, entre ellos los metales y los minerales, la def
 directamente proporcional al esfuerzo.
 
 
+
+
 Si la fuerza
 externa supera un determinado valor, el material puede quedar deformado permanentemente, y la
-ley de Hooke ya no es válida. Este punto donde el material esta en maximo esfuerzo posible antes de deformarse, se le llama coeficiente de elasticidad.
-
-F=-K*l, Siendo f La fuerza, k el coeficiente de elasticidad y l el largo de la deformacion del material.
-k puede ser definido como k=varision de la fuerza/variasion de l
+ley de Hooke ya no es válida. Este punto donde el material está en máximo esfuerzo posible antes de deformarse, se le llama coeficiente de elasticidad.
 
 
-<h1>Referencias</h1>
+F=-K*l, Siendo f La fuerza, k el coeficiente de elasticidad y el largo de la deformación del material.
+k puede ser definido como k=variación de la fuerza/variación de l
 
-“LAS FUERZAS Y SU MEDICIÓN”: LEY DE HOOKE
-SANGER, Agustina
-Escuela de Enseñanza Media N° 221 "Malvinas Argentinas", Villa Eloisa, Santa Fe
-Profesor guía: MOSCA, Sandra Mabel
+
+
+
+Referencias
+
+INTRODUCCION A LA MÉCANICA DE SÓLIDOS- Stephen Crandall
+
 
 Capitulo 2 guia de clases.
+
